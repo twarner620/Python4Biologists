@@ -1,6 +1,6 @@
 ## Assignment 3
 
-## Tyler Warner
+# Author: Tyler Warner
 
 Language(s) used:
 - Python3
