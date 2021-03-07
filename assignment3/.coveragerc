@@ -1,0 +1,4 @@
+[run]
+omit =
+    test_*
+    /home/tyler/Documents/Coursework/Spring 2021/BINF6200/venv/lib/python3.*/*
